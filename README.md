@@ -3,7 +3,7 @@ This program consists of some small scripts that let you insert a custom splash 
 Running this program is carried out in six steps, namely:
 
 1) Installing dependencies: ```sudo apt install git python3-venv imagemagick```
-2) Downloading the image for your printer: ```bash ./download-update-img.sh```
+2) Downloading the image for your printer: ```./download-update-img.sh```
 3) Unpacking the image: ```./unpack-update-img.sh path-to-update-image```
 4) Replacing the splash screen in boot.img:```./set_splash.sh path-to-splash-image```
 5) Repacking the image: ```./pack-update-img.sh```
