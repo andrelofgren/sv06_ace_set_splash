@@ -14,4 +14,4 @@ For instructions on how to flash the firmware https://wiki.sovol3d.com/en/SV06-A
 Also, depending on your system there might be other dependencies than the one listed.
 
 ## WARNING
-Flashing always carries the risk of bricking your device. Ensure you have read through the program thoroughly before running and flashing as I take zero responsibility for what these scripts might do to your system. Also, be aware that flashing the resulting image will completely wipe your printer, so make sure you back up anything of value before flashing.
+Flashing always carries the risk of bricking your device, and will most likely void you of you warranty. Ensure you have read through the program thoroughly before running and flashing as I take zero responsibility for what these scripts might do to your system. Also, be aware that flashing the resulting image will completely wipe your printer, so make sure you back up anything of value before flashing.
