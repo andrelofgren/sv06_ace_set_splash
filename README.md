@@ -1,6 +1,6 @@
 # sv06_ace_set_splash
 This program consists of some small scripts that let you insert a custom splash screen into the official SOVOL SV06 (PLUS) ACE firmware.
-Running this program is carried out in six steps, consisting of:
+Running this program is carried out in six steps, namely:
 
 1) Installing dependencies: ```bash sudo apt install git python3-venv imagemagick```
 2) Downloading the image for your printer: ```bash ./download-update-img.sh```
