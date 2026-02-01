@@ -1,2 +1,2 @@
 #!/bin/env bash
-sudo apt install git python3-venv imagemagick
+sudo apt install git python3-venv imagemagick rkdeveloptool
