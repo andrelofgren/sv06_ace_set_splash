@@ -6,7 +6,7 @@ Running this program is carried out in five steps, namely:
 2) Downloading the image for your printer: ```./download-update-img.sh```
 3) Unpacking the image: ```./unpack-update-img.sh path-to-update-image```
 4) Replacing the splash screen in boot.img:```./set_splash.sh path-to-splash-image```
-5) Boot printer into maskrom and then upload the boot.img ```./flash_bootloader.sh```
+5) Boot printer into maskrom and then run ```./flash_bootloader.sh``` to flash new boot.img
 
 For instructions on how to boot into maskrom see the official flashing tutorial for SV06 ACE printers: https://wiki.sovol3d.com/en/SV06-ACE-image-flashing-tutorial. Also, depending on your system there might be other dependencies than the ones listed.
 
