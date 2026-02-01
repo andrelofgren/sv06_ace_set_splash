@@ -11,4 +11,4 @@ Running this program is carried out in five steps, namely:
 For instructions on how to boot into maskrom see the official flashing tutorial for SV06 ACE printers: https://wiki.sovol3d.com/en/SV06-ACE-image-flashing-tutorial. Also, depending on your system there might be other dependencies than the ones listed.
 
 ## WARNING
-Flashing always carries the risk of bricking your device, and will most likely void you of you warranty. Ensure you have read through the program thoroughly before running and flashing as I take zero responsibility for what these scripts might do to your system. Also, be aware that flashing the resulting image will completely wipe your printer, so make sure you back up anything of value before flashing.
+Flashing always carries the risk of bricking your device, and will most likely void you of your warranty. Ensure you have read through the program thoroughly before running and flashing as I take zero responsibility for what these scripts might do to your system. Also, be aware that flashing the resulting image will completely wipe your printer, so make sure you back up anything of value before flashing.
