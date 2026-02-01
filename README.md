@@ -1,4 +1,4 @@
-# sv06_ace_set_splash
+# SV06 ACE Custom Splash
 This program consists of scripts that let you insert a custom splash screen into the official SOVOL SV06 (PLUS) ACE firmware.
 Running this program is carried out in five steps, namely:
 
